@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "es6",
+    "lib": [
+      "es6"
+    ],
+    "declaration": true,
+    "declarationMap": true,
+    "declarationDir": "dist",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "alwaysStrict": true
+  },
+  "include": [
+    "src/index.ts"
+  ],
+  "exclude": [
+    "webpack.config.js"
+  ]
+}
