@@ -1,6 +1,7 @@
 export const HomeIcon = "HomeIcon";
 export const SunIcon = "SunIcon";
 export const MoonIcon = "MoonIcon";
+export const Translate = "Translate";
 
 export const MobilePhoneIcon = "MobilePhoneIcon";
 
