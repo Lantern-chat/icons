@@ -1,74 +1,76 @@
-export const HomeIcon = "HomeIcon";
-export const SunIcon = "SunIcon";
-export const MoonIcon = "MoonIcon";
+export const enum Icons {
+    HomeIcon,
+    SunIcon,
+    MoonIcon,
 
-export const MobilePhoneIcon = "MobilePhoneIcon";
+    MobilePhoneIcon,
 
-export const MenuIcon = "MenuIcon";
-export const UsersIcon = "UsersIcon";
-export const HashIcon = "HashIcon";
+    MenuIcon,
+    UsersIcon,
+    HashIcon,
 
-export const SmileyHalfIcon = "SmileyHalfIcon";
+    SmileyHalfIcon,
 
-export const BalloonIcon = "BalloonIcon";
-export const BalloonsIcon = "BalloonsIcon";
+    BalloonIcon,
+    BalloonsIcon,
 
-export const ChevronDownIcon = "ChevronDownIcon";
+    ChevronDownIcon,
 
-export const SendIcon = "SendIcon";
-export const PlusIcon = "PlusIcon";
+    SendIcon,
+    PlusIcon,
 
-export const SaveIcon = "SaveIcon";
+    SaveIcon,
 
-export const PencilIcon = "PencilIcon";
-export const PushPinIcon = "PushPinIcon";
-export const ArrowThinRightIcon = "ArrowThinRightIcon";
+    PencilIcon,
+    PushPinIcon,
+    ArrowThinRightIcon,
 
-export const FamilyIcon = "FamilyIcon";
+    FamilyIcon,
 
-export const PasteIcon = "PasteIcon";
+    PasteIcon,
 
-export const TrashIcon = "TrashIcon";
-export const TrashOpenIcon = "TrashOpenIcon";
-export const ClipboardIcon = "ClipboardIcon";
-export const CopyIcon = "CopyIcon";
-export const ChatMessageIcon = "ChatMessageIcon";
-export const TriangleIcon = "TriangleIcon";
+    TrashIcon,
+    TrashOpenIcon,
+    ClipboardIcon,
+    CopyIcon,
+    ChatMessageIcon,
+    TriangleIcon,
 
-export const TriangleAlertIcon = "TriangleAlertIcon";
-export const LockIcon = "LockIcon";
+    TriangleAlertIcon,
+    LockIcon,
 
-export const CrownIcon = "CrownIcon";
+    CrownIcon,
 
-export const CogwheelIcon = "CogwheelIcon";
-export const SpeakerIcon = "SpeakerIcon";
-export const SpeakerDeafIcon = "SpeakerDeafIcon";
-export const MicrophoneIcon = "MicrophoneIcon";
-export const MicrophoneMuteIcon = "MicrophoneMuteIcon";
+    CogwheelIcon,
+    SpeakerIcon,
+    SpeakerDeafIcon,
+    MicrophoneIcon,
+    MicrophoneMuteIcon,
 
-export const MenuCloseIcon = "MenuCloseIcon";
+    MenuCloseIcon,
 
-export const CloseIcon = "CloseIcon";
-export const FullscreenOffIcon = "FullscreenOffIcon";
-export const FullscreenOnIcon = "FullscreenOnIcon";
+    CloseIcon,
+    FullscreenOffIcon,
+    FullscreenOnIcon,
 
-export const LogoutIcon = "LogoutIcon";
+    LogoutIcon,
 
-export const CircleEmptyInfoIcon = "CircleEmptyInfoIcon";
+    CircleEmptyInfoIcon,
 
-export const PlainTextFileIcon = "PlainTextFileIcon";
-export const RichTextFileIcon = "RichTextFileIcon";
-export const AudioFileIcon = "AudioFileIcon";
-export const VideoFileIcon = "VideoFileIcon";
-export const ImageFileIcon = "ImageFileIcon";
-export const SpreadsheetFileIcon = "SpreadsheetFileIcon";
-export const DatabaseFileIcon = "DatabaseFileIcon";
-export const ProgramFileIcon = "ProgramFileIcon";
-export const TerminalFileIcon = "TerminalFileIcon";
-export const ScriptFileIcon = "ScriptFileIcon";
-export const PresentationFileIcon = "PresentationFileIcon";
-export const UnknownFileIcon = "UnknownFileIcon";
-export const CodeFileIcon = "CodeFileIcon";
-export const ShieldFileIcon = "ShieldFileIcon";
-export const KeyFileIcon = "KeyFileIcon";
-export const ZipFileIcon = "ZipFileIcon";
+    PlainTextFileIcon,
+    RichTextFileIcon,
+    AudioFileIcon,
+    VideoFileIcon,
+    ImageFileIcon,
+    SpreadsheetFileIcon,
+    DatabaseFileIcon,
+    ProgramFileIcon,
+    TerminalFileIcon,
+    ScriptFileIcon,
+    PresentationFileIcon,
+    UnknownFileIcon,
+    CodeFileIcon,
+    ShieldFileIcon,
+    KeyFileIcon,
+    ZipFileIcon,
+}
