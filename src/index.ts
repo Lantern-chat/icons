@@ -13,6 +13,7 @@ export const enum Icons {
     Translate = "translate",
     MobilePhone = "mobile-phone",
     Menu = "menu",
+    Hash = "hash",
     Users = "users",
     SmileyHalf = "smiley-half",
     Balloon = "balloon",
@@ -66,6 +67,7 @@ export { default as MoonIcon } from "./icons/google-material-icons/outlined/dark
 export { default as TranslateIcon } from "./icons/google-material-icons/sharp/translate.svg";
 export { default as MobilePhoneIcon } from "./icons/google-material-icons/round/phone_iphone.svg";
 export { default as MenuIcon } from "./icons/google-material-icons/sharp/menu.svg";
+export { default as HashIcon } from "./icons/font-awesome/hashtag-solid.svg";
 export { default as UsersIcon } from "./icons/google-material-icons/sharp/groups.svg";
 export { default as SmileyHalfIcon } from "./icons/google-material-icons/round/sentiment_satisfied.svg";
 export { default as BalloonIcon } from "./icons/modified/phosphor/balloon-fill.svg";
